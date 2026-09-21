@@ -4,8 +4,8 @@ void main() {
   runApp(
     MaterialApp(
       home: (Scaffold(
-        body: Text(
-          "Привет! Меня зовут Владислав.\n Я студент группы ИСП-243.",
+        body: Image.network(
+          'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg',
         ),
       )),
     ),
