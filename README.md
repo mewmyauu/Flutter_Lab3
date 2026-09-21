@@ -1,17 +1,26 @@
-# first_project_romaniuk
+# Проект на flutter
 
-A new Flutter project.
+крутой проект на флаттере для изучения функционала. в этом проекте мы запустили веб-сервер и сделали страницу.
 
-## Getting Started
+владислав
+исп-243
 
-This project is a starting point for a Flutter application.
+Flutter (Channel stable, 3.47.1, on Microsoft Windows [Version 10.0.19045.5854], locale ru-RU)
+Dart SDK version: 3.13.1 (stable) (Tue Aug 18 01:00:59 2026 -0700) on "windows_x64"
+Платформа: Web (Chrome);
 
-A few resources to get you started if this is your first Flutter project:
+[фото](img/step9.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Запуск
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Клонировать репозиторий
+2. Перейти в папку проекта
+3. Выполнить `flutter pub get`
+4. Запустить командой `flutter run -d chrome`
+
+что изучили
+
+- создание веб-страницы
+- запуск дебаг модуля
+- горячие перезагрузки
+- выбор запуска платформы
